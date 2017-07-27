@@ -2,9 +2,10 @@
 
 
 gulp.task('watch.src', cb => {
-    plugins.watch(config.js.src, function(){
-        gulp.start('change');
-    })
 
-    cb();
+	plugins.watch(config.js.src, function() {
+		gulp.start('change');
+	});
+
+	cb();
 });

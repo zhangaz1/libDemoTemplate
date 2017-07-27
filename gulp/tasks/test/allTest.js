@@ -2,7 +2,7 @@
 
 
 gulp.task('allTest', cb => {
-    return plugins
-            .sequence('nodeTest')
-            (cb);
+	return plugins
+		.sequence('nodeTest')
+		(cb);
 });
