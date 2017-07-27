@@ -1,4 +1,8 @@
 'use strict';
 
 
-gulp.task('change', plugins.sequence('allTest'));
+gulp.task('change', cb => {
+    return plugins
+            .sequence('allTest')
+            (cb);
+});

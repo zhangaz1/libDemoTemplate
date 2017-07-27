@@ -11,9 +11,9 @@ global.config = {
 	src: path.src,
 	dest: path.dest,
 	test: {
-		src: path.test+ '/**/*.test.js',
+		src: path.test + '/**/*.test.js',
 	},
 	js: {
-		src: path.src+'/**/*.js',
+		src: path.src + '/**/*.js',
 	},
 };
