@@ -9,5 +9,9 @@ gulp.task('watch.srcTs', cb => {
             .pipe(gulp.dest(config.dest + '/src'));
     });
 
+    // plugins.watch(config.js.srcTs, { ignoreInitial: false })
+    //     .pipe(plugins.typescript())
+    //     .pipe(gulp.dest(config.dest + '/src'));
+
     cb();
 });
