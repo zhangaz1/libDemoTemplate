@@ -1,7 +1,7 @@
-// let should = require('should');
+let should = require('should');
 // should(5).is.a.Number();
 
-import { should } from 'should';
+// import { should } from 'should';
 
 import { add } from '../src/add';
 

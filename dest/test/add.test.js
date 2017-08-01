@@ -1,7 +1,8 @@
 "use strict";
-// let should = require('should');
-// should(5).is.a.Number();
 exports.__esModule = true;
+var should = require('should');
+// should(5).is.a.Number();
+// import { should } from 'should';
 var add_1 = require("../src/add");
 describe('test add', function () {
     it('should can add to number', function () {
