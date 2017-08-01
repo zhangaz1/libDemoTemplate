@@ -1,9 +1,9 @@
-'use strict';
+// let should = require('should');
+// should(5).is.a.Number();
 
+import { should } from 'should';
 
-let should = require('should');
-
-let add = require('./../src/add.js');
+import { add } from '../src/add';
 
 describe('test add', function() {
 

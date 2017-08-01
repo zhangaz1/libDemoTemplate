@@ -3,7 +3,7 @@
 
 gulp.task('nodeTest', cb => {
 	return gulp
-		.src(config.test.src)
+		.src(config.test.dest)
 		.pipe(plugins.mocha())
 		.on('error', function() {
 			console.log(arguments);
