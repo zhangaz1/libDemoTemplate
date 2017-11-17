@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zhangaz1/webDemoTemplate.git"
+    "url": "git+https://github.com/zhangaz1/libDemoTemplate.git"
   },
   "author": "",
   "license": "MIT",
@@ -22,9 +22,9 @@
     "js"
   ],
   "bugs": {
-    "url": "https://github.com/zhangaz1/webDemoTemplate/issues"
+    "url": "https://github.com/zhangaz1/libDemoTemplate/issues"
   },
-  "homepage": "https://github.com/zhangaz1/webDemoTemplate#readme",
+  "homepage": "https://github.com/zhangaz1/libDemoTemplate#readme",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-babel": "^6.1.2",
