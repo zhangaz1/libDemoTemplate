@@ -12,6 +12,13 @@
   },
   "author": "",
   "license": "MIT",
+  "keywords": [
+    "template",
+    "lib",
+    "node",
+    "javascript",
+    "js"
+  ],
   "bugs": {
     "url": "https://github.com/zhangaz1/webDemoTemplate/issues"
   },
