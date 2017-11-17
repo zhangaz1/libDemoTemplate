@@ -1,6 +1,6 @@
 {
   "name": "libDemoTemplate",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,14 @@
     "url": "git+https://github.com/zhangaz1/webDemoTemplate.git"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
+  "keywords": [
+    "template",
+    "lib",
+    "node",
+    "javascript",
+    "js"
+  ],
   "bugs": {
     "url": "https://github.com/zhangaz1/webDemoTemplate/issues"
   },
